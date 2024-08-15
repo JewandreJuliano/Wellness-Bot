@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import logging
 from telegram import Update, ForceReply
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, CallbackContext
