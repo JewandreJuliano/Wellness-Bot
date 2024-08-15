@@ -16,7 +16,7 @@ This bot provides personalized wellness advice based on user input. It can respo
    - pip install -r requirements.txt
 
 ## Running the Bot
-1. Replace `"7168442396:AAEyMOGGq8568GwauU8rhpoSVNe1SLRnOdo"` in `bot.py` with your actual Telegram bot token.
+1. Replace `the bot code` in `bot.py` with your actual Telegram bot token.
 2. Run the bot:
    - python bot.py
 
